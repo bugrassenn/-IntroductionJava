@@ -8,5 +8,6 @@ public class Main {
         System.out.println( text + sayi);
         System.out.println( text + sayi);
         System.out.println( text + sayi);
+        System.out.println("Merhaba " + text + sayi);
     }
 }
